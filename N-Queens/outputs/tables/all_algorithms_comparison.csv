@@ -1,0 +1,25 @@
+Algorithm,N,Status,Solved,Steps,Conflicts,TimeSeconds,PeakMemoryMB,ImagePath
+Exhaustive Depth-First Search,10,SOLVED,True,103,0,0.000250,3.145479,outputs\board_images\dfs_nqueens_n10.svg
+Exhaustive Depth-First Search,30,TIMEOUT,False,2998182,N/A,15.000047,0.005930,N/A
+Exhaustive Depth-First Search,50,TIMEOUT,False,1077404,N/A,15.000083,0.007133,N/A
+Exhaustive Depth-First Search,100,TIMEOUT,False,948935,N/A,15.000125,0.013939,N/A
+Exhaustive Depth-First Search,200,TIMEOUT,False,901978,N/A,15.000163,0.031013,N/A
+Exhaustive Depth-First Search,500,TIMEOUT,False,418929,N/A,15.000408,0.123909,N/A
+Genetic Algorithm,10,SOLVED,True,17,0,0.055827,0.028830,outputs\board_images\genetic_nqueens_n10.svg
+Genetic Algorithm,30,SOLVED,True,100,0,0.553668,0.049706,N/A
+Genetic Algorithm,50,SOLVED,True,150,0,1.154825,0.073563,N/A
+Genetic Algorithm,100,SOLVED,True,500,0,4.902963,0.101173,N/A
+Genetic Algorithm,200,SOLVED,True,350,0,8.173441,0.194901,N/A
+Genetic Algorithm,500,SOLVED,True,350,0,71.380122,0.920624,N/A
+Local Greedy Search (Hill Climbing),10,SOLVED,True,711,0,0.016672,0.004410,outputs\board_images\greedy_nqueens_n10.svg
+Local Greedy Search (Hill Climbing),30,SOLVED,True,58,0,0.002458,0.006264,N/A
+Local Greedy Search (Hill Climbing),50,SOLVED,True,75,0,0.004392,0.008263,N/A
+Local Greedy Search (Hill Climbing),100,SOLVED,True,157,0,0.014080,0.013306,N/A
+Local Greedy Search (Hill Climbing),200,SOLVED,True,156,0,0.029463,0.023216,N/A
+Local Greedy Search (Hill Climbing),500,SOLVED,True,399,0,0.886444,0.070473,N/A
+Local Simulated Annealing,10,SOLVED,True,639,0,0.005832,0.006279,outputs\board_images\simulated_annealing_nqueens_n10.svg
+Local Simulated Annealing,30,SOLVED,True,8811,0,0.132299,0.004211,N/A
+Local Simulated Annealing,50,SOLVED,True,13366,0,0.222612,0.005119,N/A
+Local Simulated Annealing,100,SOLVED,True,13442,0,0.393685,0.007423,N/A
+Local Simulated Annealing,200,SOLVED,True,21120,0,1.018516,0.011971,N/A
+Local Simulated Annealing,500,SOLVED,True,87052,0,34.719534,0.032799,N/A

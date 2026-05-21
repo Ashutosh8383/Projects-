@@ -1,0 +1,7 @@
+N,Status,Solved,Iterations,Conflicts,TimeSeconds,PeakMemoryMB,ImagePath,Note
+10,SOLVED,True,639,0,0.005832,0.006279,outputs\board_images\simulated_annealing_nqueens_n10.svg,Solved with simulated annealing after 0 restart(s).
+30,SOLVED,True,8811,0,0.132299,0.004211,N/A,Solved with simulated annealing after 0 restart(s).
+50,SOLVED,True,13366,0,0.222612,0.005119,N/A,Solved with simulated annealing after 0 restart(s).
+100,SOLVED,True,13442,0,0.393685,0.007423,N/A,Solved with simulated annealing after 0 restart(s).
+200,SOLVED,True,21120,0,1.018516,0.011971,N/A,Solved with simulated annealing after 0 restart(s).
+500,SOLVED,True,87052,0,34.719534,0.032799,N/A,Solved with simulated annealing after 0 restart(s).

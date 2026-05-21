@@ -1,0 +1,7 @@
+N,Status,Solved,Iterations,Conflicts,TimeSeconds,PeakMemoryMB,ImagePath,Note
+10,SOLVED,True,711,0,0.030438,0.005112,outputs\board_images\greedy_nqueens_n10.svg,Solved with greedy search after 1 restart(s).
+30,SOLVED,True,58,0,0.003155,0.006615,N/A,Solved with greedy search after 0 restart(s).
+50,SOLVED,True,75,0,0.005537,0.008614,N/A,Solved with greedy search after 0 restart(s).
+100,SOLVED,True,157,0,0.024103,0.013657,N/A,Solved with greedy search after 0 restart(s).
+200,SOLVED,True,156,0,0.051598,0.023567,N/A,Solved with greedy search after 0 restart(s).
+500,SOLVED,True,399,0,1.518789,0.070854,N/A,Solved with greedy search after 0 restart(s).

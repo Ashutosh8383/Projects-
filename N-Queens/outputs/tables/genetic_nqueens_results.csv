@@ -1,0 +1,7 @@
+N,Status,Solved,Generations,Conflicts,TimeSeconds,PeakMemoryMB,ImagePath,Note
+10,SOLVED,True,17,0,0.055827,0.028830,outputs\board_images\genetic_nqueens_n10.svg,Solved using the genetic algorithm.
+30,SOLVED,True,100,0,0.553668,0.049706,N/A,Solved with genetic search plus local repair (15 repair step(s)).
+50,SOLVED,True,150,0,1.154825,0.073563,N/A,Solved with genetic search plus local repair (8 repair step(s)).
+100,SOLVED,True,500,0,4.902963,0.101173,N/A,Solved after final repair (5 repair step(s)).
+200,SOLVED,True,350,0,8.173441,0.194901,N/A,Solved after final repair (9 repair step(s)).
+500,SOLVED,True,350,0,71.380122,0.920624,N/A,Solved after final repair (49 repair step(s)).

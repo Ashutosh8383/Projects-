@@ -1,0 +1,7 @@
+N,Status,Solved,Steps,Conflicts,TimeSeconds,PeakMemoryMB,ImagePath,Note
+10,SOLVED,True,103,0,0.000250,3.145479,outputs\board_images\dfs_nqueens_n10.svg,Solved with full exhaustive backtracking.
+30,TIMEOUT,False,2998182,N/A,15.000047,0.005930,N/A,Stopped after reaching the 15s time limit.
+50,TIMEOUT,False,1077404,N/A,15.000083,0.007133,N/A,Stopped after reaching the 15s time limit.
+100,TIMEOUT,False,948935,N/A,15.000125,0.013939,N/A,Stopped after reaching the 15s time limit.
+200,TIMEOUT,False,901978,N/A,15.000163,0.031013,N/A,Stopped after reaching the 15s time limit.
+500,TIMEOUT,False,418929,N/A,15.000408,0.123909,N/A,Stopped after reaching the 15s time limit.
